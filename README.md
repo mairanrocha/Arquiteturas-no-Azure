@@ -61,14 +61,6 @@ Uma arquitetura no Azure é a forma de organizar e conectar recursos da nuvem (c
 
 ---
 
-## 🖼️ Diagrama da Arquitetura
-
-> Diagrama simples representando um App Service se comunicando com um banco Azure SQL, ambos dentro de uma VNet, com segurança através do Key Vault.
-
-![Azure Architecture Diagram]( https://oaidalleapiprodscus.blob.core.windows.net/private/org-cynrxz6Z7MFDHkHjcsaPT2ON/user-KmWZgyZNcruYeGMCJDyxp0xb/img-kcdKnAxTivFv9KYB0RTNFSKk.png?st=2025-05-11T15%3A30%3A00Z&se=2025-05-11T17%3A30%3A00Z&sp=r&sv=2021-08-06&sr=b&sig=WtWyRQ3M0%2BcXyfXbR5kLTqJV5iESYH9UnvH5dCR5rcA%3D)
-
----
-
 ## ✅ Conclusão
 
 Compreender os componentes essenciais do Azure e como conectá-los é o primeiro passo para construir aplicações escaláveis, seguras e organizadas na nuvem. O uso de Resource Groups, VNet e serviços gerenciados facilita o controle e a manutenção da infraestrutura.
